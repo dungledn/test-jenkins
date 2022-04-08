@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Test Server</h1>
+<h1>QA Server</h1>
 <p></p>
 
 </body>
