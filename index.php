@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>This Server Dev</h1>
+<h1>Dev Server</h1>
 <p></p>
 
 </body>
